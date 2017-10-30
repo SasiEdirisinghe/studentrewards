@@ -1,5 +1,5 @@
 # Student Rewards
-Student Rewards System. 
+Student Rewards  this System. 
 Is a web based tracker for teachers, schools, and students to track behavior. 
 
 # How it Works
